@@ -1,3 +1,4 @@
+#third attempt in total. I finally understood the rotors after 2 other attempts and countless diagrams haha
 alpha = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"]
 plugboard = alpha[:]
 rotor1 = alpha[:]
